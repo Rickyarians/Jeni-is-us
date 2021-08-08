@@ -74,5 +74,5 @@ react-native run-android #for android
  
 
 ## Download App (Demo usage only)
-[![download](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.seekpng.com%2Fipng%2Fu2q8u2r5i1y3r5w7_download-button%2F&psig=AOvVaw0al7YQh1EawUZxGjXCCShN&ust=1628508837234000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKjRqqyqofICFQAAAAAdAAAAABAD "Download")](https://drive.google.com/open?id=1OOXC_AM8I8XvsabpSW9W6IbjiYSPPk_9)
+[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
 
